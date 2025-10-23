@@ -24,6 +24,6 @@ This is an interactive dashboard built in Power BI that acts as a universal clim
 
 ## How to View
 
-You can [**view the live, interactive dashboard here**](tinyurl.com/ClimbingConverter).
+You can [**view the live, interactive dashboard here**](https://tinyurl.com/ClimbingConverter).
 
 You can also download the [project .pbix file](https://github.com/Stan-Flavius/Climbing-Grade-Converter/blob/main/Grade%20Converter.pbix) and the [source Excel data](https://github.com/Stan-Flavius/Climbing-Grade-Converter/blob/main/crag_routes.csv) from this repository.
