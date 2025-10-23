@@ -25,7 +25,7 @@ This is an interactive dashboard built in Power BI that acts as a universal clim
 
 * **Data Cleaning & Classification (Script 2):**
     * The raw CSV was processed using **pandas** and **numpy**.
-    * A complex classification engine using **Regular Expressions (re)** was built to parse unstructured grade strings and successfully categorize over 12,000 routes into 7 distinct climbing disciplines (Mixed, Ice, Aid, Bouldering, Alpine, Free, and Unclassified).
+    * A complex classification engine using **Regular Expressions (re)** was built to parse unstructured grade strings and successfully categorize over 8,000 routes into 7 distinct climbing disciplines (Mixed, Ice, Aid, Bouldering, Alpine, Free, and Unclassified).
     * Standardized French and UIAA grades to a single `Standard_Grade` for comparison.
     * The final, clean datasets were exported to a multi-sheet Excel file using `openpyxl`.
 
